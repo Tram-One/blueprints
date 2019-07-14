@@ -1,7 +1,7 @@
 {
   "name": "tram-blueprints",
   "version": "1.0.0",
-  "description": "",
+  "description": "tram-one templates for use with the blueprint-templates plugin",
   "files": ["templates"],
   "repository": {
     "type": "git",
